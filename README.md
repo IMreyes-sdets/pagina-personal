@@ -10,6 +10,12 @@ Este proyecto presenta información personal y académica del estudiante, incluy
 - HTML5
 - CSS3
 
+## Estructura
+
+- `index.html` — estructura y contenido de la página.
+- `styles.css` — estilos y diseño visual.
+- `Photos/` — imágenes utilizadas en la página.
+
 ## Publicación
 
 El sitio web está publicado mediante GitHub Pages.
