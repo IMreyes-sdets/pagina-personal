@@ -67,8 +67,8 @@ nav a:hover {
 
 .bio-content img {
     width: 500px;
-    height: auto;
-    order: 2; /* Cambia el orden de la imagen */
+    height: 500px;
+    /*order: 2; /* Cambia el orden de la imagen */
 }
 /* Horario */
 #schedule {
@@ -134,4 +134,20 @@ footer {
     color: white;
     text-align: center;
     padding: 8px;
+}
+
+/*botones de Leer más */
+.read-more {
+    display: inline-block;
+    background-color: white;
+    color: #333;
+    padding: 10px 20px;
+    border: 1px solid #ccc;
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+.read-more:hover {
+    background-color: coral;
+    color: white;
 }
